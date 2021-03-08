@@ -1,0 +1,5 @@
+*.tfstate
+*.fstate.backup
+*.lock.hcl
+.idea
+.terraform
